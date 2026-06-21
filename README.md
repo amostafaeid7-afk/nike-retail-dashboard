@@ -35,7 +35,7 @@ Developed an end-to-end Business Intelligence solution to analyze retail sales p
 ![Insights](Screenshot%202026-06-14%20062109.png)
 
 ### SQL Analysis
-![SQL Analysis](Screenshot%202026-05-21%20004424.png)
+![SQL Analysis](Screenshot%2026-06-15%202745.png)
 
 ### Power Query Transformations
 ![Power Query](Screenshot%202026-03-14%20083250.png)
