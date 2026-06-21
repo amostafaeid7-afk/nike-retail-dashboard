@@ -24,14 +24,18 @@ Developed an end-to-end Business Intelligence solution to analyze retail sales p
 6. Generated business insights and recommendations.
 7. ## Dashboard Screenshots
 
+
 ### Main Dashboard
-![](Screenshot%202026-06-13%20232703.png)
+![](Screenshot%202026-06-14%20062049.png)
 
 ### Data Model
-![](Screenshot%202026-06-14%20062049.png)
+![](Screenshot%202026-06-13%20232703.png)
 
 ### SQL Analysis
 ![](Screenshot%202026-06-14%20062109.png)
 
-### Power Query Transformations
+### SQL Analysis
 ![](Screenshot%202026-05-21%20004424.png)
+
+### Power Query Transformations
+![](Screenshot%2026-03-14%083250.png)
