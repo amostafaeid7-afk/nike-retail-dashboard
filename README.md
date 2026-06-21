@@ -1,2 +1,16 @@
-# india-ratail-sales-performance-analysis
-End-to-end retail sales analysis project using Power BI, SQL, PostgreSQL and Power Query.
+H# India Retail Sales Performance Analysis
+
+## Project Overview
+
+Developed an end-to-end Business Intelligence solution to analyze retail sales performance across multiple regions, products, and sales channels.
+
+...
+
+## Tools Used
+
+- Excel Power Pivot
+- Power Query
+- PostgreSQL
+- SQL
+
+...
