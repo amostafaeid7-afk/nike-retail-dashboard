@@ -22,10 +22,35 @@ Developed an end-to-end Business Intelligence solution to analyze retail sales p
 4. Performed SQL analysis using PostgreSQL.
 5. Designed an interactive dashboard with slicers and KPIs.
 6. Generated business insights and recommendations.
-7. ## Dashboard Screenshots
+7.## Key Insights
 
+- Bangalore generated the highest sales among all regions.
+- Online sales channels outperformed retail stores in total revenue.
+- A small number of products contributed to the majority of revenue.
+- Revenue peaked during specific months, indicating seasonal demand patterns.
+- Profitability varied significantly across regions and product categories.
+8.## SQL Analysis
 
-## Dashboard Screenshots
+Performed analytical SQL queries using PostgreSQL, including:
+
+- Top 10 products by revenue using DENSE_RANK().
+- Top products within each region using ROW_NUMBER() and PARTITION BY.
+- Revenue aggregation and ranking analysis.
+- 
+9.## Data Model
+
+Built a star schema data model using Power Pivot with Fact and Dimension tables to support efficient analysis and reporting.
+10.## Data Cleaning & Transformation
+
+Used Power Query to:
+
+- Clean inconsistent values.
+- Standardize product sizes.
+- Handle missing values.
+- Create profitability categories.
+- Prepare data for analysis.
+
+11.## Dashboard Screenshots
 
 ### Main Dashboard
 ![Main Dashboard](Screenshot%202026-06-14%20062049.png)
