@@ -1,4 +1,4 @@
-H# India Retail Sales Performance Analysis
+# India Retail Sales Performance Analysis
 
 ## Project Overview
 
